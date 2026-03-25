@@ -72,8 +72,13 @@ export function PageTemplate({ title, description, region }: PageTemplateProps) 
 
       <footer className="mt-auto bg-slate-900 text-white py-12 px-4">
         <div className="max-w-7xl mx-auto text-center">
-          <p className="mb-4">© 2026 UK Indonesia Visa™ - All Rights Reserved.</p>
-          <a href="/sitemap" className="text-slate-400 hover:text-white transition-colors underline">Sitemap</a>
+          <h2 className="text-2xl font-black mb-4">UK Indonesia Visa</h2>
+          <p className="text-slate-300 text-sm md:text-base max-w-2xl mx-auto mb-6">
+            Professional United Kingdom to Indonesia visa services with 16+ years experience. Fast, reliable, and trusted by thousands from the UK and worldwide. <a href="/sitemap" className="text-amber-400 hover:text-amber-300 transition-colors underline font-bold">(sitemap)</a>
+          </p>
+          <div className="border-t border-slate-800 pt-6">
+            <p className="text-slate-500 text-xs">© 2026 UK Indonesia Visa™ - All Rights Reserved.</p>
+          </div>
         </div>
       </footer>
     </div>
