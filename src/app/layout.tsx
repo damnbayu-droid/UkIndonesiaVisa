@@ -18,6 +18,9 @@ export const metadata: Metadata = {
   alternates: {
     canonical: "https://ukindonesiavisas.online",
   },
+  icons: {
+    icon: "/icon.webp",
+  },
   openGraph: {
     title: "United Kingdom Indonesia Visa - Professional Visa Services",
     description: "Fast, reliable, and professional visa services for your Indonesian adventure through UK Indonesia Visa from the United Kingdom.",
