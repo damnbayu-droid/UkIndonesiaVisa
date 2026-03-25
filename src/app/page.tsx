@@ -575,7 +575,7 @@ export default function Home() {
             <div className="md:col-span-2">
               <h2 className="text-2xl md:text-4xl font-black mb-4 md:mb-6 text-white">UK Indonesia Visa</h2>
               <p className="text-slate-300 text-base md:text-lg mb-4 md:mb-6">
-                Professional United Kingdom to Indonesia visa services with 16+ years experience. Fast, reliable, and trusted by thousands from the UK and worldwide.
+                Professional United Kingdom to Indonesia visa services with 16+ years experience. Fast, reliable, and trusted by thousands from the UK and worldwide. <a href="/sitemap" className="text-amber-400 hover:text-amber-300 transition-colors underline font-bold">(sitemap)</a>
               </p>
             </div>
             <nav aria-label="Footer Quick Links">

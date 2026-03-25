@@ -3,15 +3,61 @@
   <!-- Homepage -->
   <url>
     <loc>https://ukindonesiavisas.online/</loc>
-    <lastmod>2026-01-26T18:48:51.265Z</lastmod>
+    <lastmod>2026-03-26T07:33:56Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+  </url>
+
+  <!-- New Regional Visa Pages Cluster -->
+  <url>
+    <loc>https://ukindonesiavisas.online/visa-indonesia</loc>
+    <lastmod>2026-03-26T07:33:56Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ukindonesiavisas.online/visa-bali</loc>
+    <lastmod>2026-03-26T07:33:56Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ukindonesiavisas.online/visa-jakarta</loc>
+    <lastmod>2026-03-26T07:33:56Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ukindonesiavisas.online/visa-lombok</loc>
+    <lastmod>2026-03-26T07:33:56Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ukindonesiavisas.online/visa-surabaya</loc>
+    <lastmod>2026-03-26T07:33:56Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://ukindonesiavisas.online/visa-jogja</loc>
+    <lastmod>2026-03-26T07:33:56Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Sitemap Page -->
+  <url>
+    <loc>https://ukindonesiavisas.online/sitemap</loc>
+    <lastmod>2026-03-26T07:33:56Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
 
   <!-- Privacy Policy -->
   <url>
     <loc>https://ukindonesiavisas.online/privacy-policy</loc>
-    <lastmod>2026-01-26T18:48:51.265Z</lastmod>
+    <lastmod>2026-03-26T07:33:56Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -19,7 +65,7 @@
   <!-- Terms & Conditions -->
   <url>
     <loc>https://ukindonesiavisas.online/terms-and-conditions</loc>
-    <lastmod>2026-01-26T18:48:51.265Z</lastmod>
+    <lastmod>2026-03-26T07:33:56Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -27,7 +73,7 @@
   <!-- Refund Policy -->
   <url>
     <loc>https://ukindonesiavisas.online/refund</loc>
-    <lastmod>2026-01-26T18:48:51.265Z</lastmod>
+    <lastmod>2026-03-26T07:33:56Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -35,104 +81,27 @@
   <!-- Affiliate Program -->
   <url>
     <loc>https://ukindonesiavisas.online/affiliate</loc>
-    <lastmod>2026-01-26T18:48:51.265Z</lastmod>
+    <lastmod>2026-03-26T07:33:56Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
 
-  <!-- All Service Domain -->
-  <url>
-    <loc>https://ukindonesiavisas.online/all-service-domain</loc>
-    <lastmod>2026-01-26T18:48:51.265Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <!-- Visa Services -->
+  <!-- Visa Services List -->
   <url>
     <loc>https://ukindonesiavisas.online/services</loc>
-    <lastmod>2026-01-26T18:48:51.265Z</lastmod>
+    <lastmod>2026-03-26T07:33:56Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
 
-  <!-- B1 VOA / Extension -->
-  <url>
-    <loc>https://ukindonesiavisas.online/services/B1</loc>
-    <lastmod>2026-01-26T18:48:51.265Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <!-- C1 Visit Visa -->
-  <url>
-    <loc>https://ukindonesiavisas.online/services/C1</loc>
-    <lastmod>2026-01-26T18:48:51.265Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <!-- C2 Business Visa -->
-  <url>
-    <loc>https://ukindonesiavisas.online/services/C2</loc>
-    <lastmod>2026-01-26T18:48:51.265Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <!-- C12 Pre-Investment Visa -->
-  <url>
-    <loc>https://ukindonesiavisas.online/services/C12</loc>
-    <lastmod>2026-01-26T18:48:51.265Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <!-- D1 Tourist Visa -->
-  <url>
-    <loc>https://ukindonesiavisas.online/services/D1</loc>
-    <lastmod>2026-01-26T18:48:51.265Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <!-- D2 Business Visa -->
-  <url>
-    <loc>https://ukindonesiavisas.online/services/D2</loc>
-    <lastmod>2026-01-26T18:48:51.265Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <!-- D12 Pre Investment -->
-  <url>
-    <loc>https://ukindonesiavisas.online/services/D12</loc>
-    <lastmod>2026-01-26T18:48:51.265Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <!-- E33G Digital Nomad -->
-  <url>
-    <loc>https://ukindonesiavisas.online/services/E33G</loc>
-    <lastmod>2026-01-26T18:48:51.265Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <!-- E28A Investment KITAS -->
-  <url>
-    <loc>https://ukindonesiavisas.online/services/E28A</loc>
-    <lastmod>2026-01-26T18:48:51.265Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <!-- Custom Visa Solution -->
-  <url>
-    <loc>https://ukindonesiavisas.online/services</loc>
-    <lastmod>2026-01-26T18:48:51.265Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
+  <!-- Individual Services (Legacy) -->
+  <url><loc>https://ukindonesiavisas.online/services/B1</loc><priority>0.7</priority></url>
+  <url><loc>https://ukindonesiavisas.online/services/C1</loc><priority>0.7</priority></url>
+  <url><loc>https://ukindonesiavisas.online/services/C2</loc><priority>0.7</priority></url>
+  <url><loc>https://ukindonesiavisas.online/services/C12</loc><priority>0.7</priority></url>
+  <url><loc>https://ukindonesiavisas.online/services/D1</loc><priority>0.7</priority></url>
+  <url><loc>https://ukindonesiavisas.online/services/D2</loc><priority>0.7</priority></url>
+  <url><loc>https://ukindonesiavisas.online/services/D12</loc><priority>0.7</priority></url>
+  <url><loc>https://ukindonesiavisas.online/services/E33G</loc><priority>0.7</priority></url>
+  <url><loc>https://ukindonesiavisas.online/services/E28A</loc><priority>0.7</priority></url>
 </urlset>

@@ -23,6 +23,14 @@ export const metadata: Metadata = {
     description: "Fast, reliable, and professional visa services for your Indonesian adventure through UK Indonesia Visa from the United Kingdom.",
     url: "https://ukindonesiavisas.online",
     siteName: "UK Indonesia Visa",
+    images: [
+      {
+        url: "/og-image.png",
+        width: 1200,
+        height: 630,
+        alt: "UK Indonesia Visa Services",
+      },
+    ],
     type: "website",
     locale: "en_GB",
   },
@@ -30,6 +38,15 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "United Kingdom Indonesia Visa | UK Indonesia Visa",
     description: "Professional Indonesian visa services with 16+ years experience. Fast, reliable, and trusted by thousands worldwide from the United Kingdom.",
+    images: ["/og-image.png"],
+    site: "@IndonesianVisas",
+    creator: "@IndonesianVisas",
+  },
+  other: {
+    "geo.region": "GB-LND",
+    "geo.placename": "London",
+    "geo.position": "51.5074;-0.1278",
+    "ICBM": "51.5074, -0.1278",
   },
   robots: {
     index: true,
